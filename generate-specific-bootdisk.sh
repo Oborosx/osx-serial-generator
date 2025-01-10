@@ -12,7 +12,7 @@
 
 set -e
 
-help_text="Usage: ./generate-specific-bootdisk.sh 
+help_text="Usage: ./generate-specific-bootdisk.sh"
 
 Required options:
     --model <string>                Device model, e.g. 'iMacPro1,1'
